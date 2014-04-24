@@ -1,0 +1,27 @@
+JS Library Contents
+
+
+gsap/
+ - Tweening/Animating objects in JS
+ - http://www.greensock.com/get-started-js/
+
+ie8.js: 
+ - i forget, bah
+ - i think it's just IE8 support for all the stuff
+
+jquery-1.10.2.min.js
+ - jQuery framework
+ - http://jquery.com/
+
+mdetect.js
+ - device detection
+ - http://blog.mobileesp.com/
+
+modernizr-2.6.2.min.js
+ - feature detection for HTML5 and CSS3
+ - http://modernizr.com/
+
+respond.js
+ - enables CSS media queries max/min width in IE8
+ - https://github.com/scottjehl/Respond
+
