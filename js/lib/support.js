@@ -131,12 +131,6 @@
   }
 })();
 
-/*
-  Convenient logging function
-*/
-function _log(s) {
-  console.log(s);
-}
 
 
 /*

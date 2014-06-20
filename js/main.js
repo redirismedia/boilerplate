@@ -1,6 +1,5 @@
-// On document ready
-document.addEventListener("DOMContentLoaded", function() {
+// Main init function, called from respond.js
+function _init() {
+	_log("Document Ready");
 
-	_log('doc ready');
-
-});
+}
