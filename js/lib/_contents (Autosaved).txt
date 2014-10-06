@@ -9,6 +9,9 @@ backbone-min.js
  - Backbone JS: http://backbonejs.org/
  - MVC framework, relies on undescore.js
 
+bootstrap/
+ - Responsive page HTML/CSS/JS framework: http://getbootstrap.com/
+
 gsap/
  - Tweening/Animating objects in JS: http://www.greensock.com/get-started-js/
 
